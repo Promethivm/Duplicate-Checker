@@ -1,0 +1,8 @@
+create "hash" array
+initialize array to 0
+for all elements
+  "hash" to index
+  if index is not 0, return true // cause there's a duplicate
+  if index is 0, set it to 1
+  
+return false
