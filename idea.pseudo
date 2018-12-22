@@ -1,0 +1,7 @@
+
+
+sort the array
+go from n to n-1
+  see if n and n+1 are equal, and return true if so
+
+return false
